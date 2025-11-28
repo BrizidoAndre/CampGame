@@ -25,3 +25,22 @@ There are three games in this Camping game
 
 ## 🎞️ Ending
 When all three games are finished it apperas a form for the user to sign in. The information received is then stored in the local storage.
+
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```

@@ -10,7 +10,6 @@ export default defineConfig({
     vue(),
 
   ],
-  base: '/02_frontend_SP',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))

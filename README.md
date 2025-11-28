@@ -1,29 +1,27 @@
-# .
+# Camp game
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📖 Introduction
 
-## Recommended IDE Setup
+This is a kids camping game. The game teaches children about forest guides with creativity and in a simple way for them
+to understand. This project is developed in Vue.js Framework and it saves its data in the user's local storage.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## ⚙️ Features
+Use the Left and Right Arrow keys to move the character. Toggle the element
 
-## Customize configuration
+## 🔧 Tools
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+The tolls used in this project are: 
+- HTML
+- CSS
+- JavaScript
+- Vue.js
 
-## Project Setup
+## 🤖 Games
 
-```sh
-npm install
-```
+There are three games in this Camping game
+1. Cook the marshmallow (Press the spacebar on the right time);
+2. Guess the silhouette (Choose the right darkened item);
+3. Memory Cards (A small memory game);
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## 🎞️ Ending
+When all three games are finished it apperas a form for the user to sign in. The information received is then stored in the local storage.

@@ -26,6 +26,8 @@ There are three games in this Camping game
 ## 🎞️ Ending
 When all three games are finished it apperas a form for the user to sign in. The information received is then stored in the local storage.
 
+## 🖼️ Quick access
+To take a quick peek at this project go to this [game's page](https://campgames.netlify.app/)
 
 ## Project Setup
 
